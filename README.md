@@ -12,7 +12,7 @@ This program requires the following packages:
 You can install them using pip:
 
 
-pip install click pycryptodome
+    pip install click pycryptodome
 
 ## Usage
 
@@ -30,7 +30,7 @@ This will start the command-line interface of the password manager. The program 
 
 Each command has its own set of options that you can access by running the command with the --help option. For example:
 
-python password_manager.py add --help
+    python password_manager.py add --help
 
 ## Security
 
