@@ -18,7 +18,7 @@ You can install them using pip:
 
 To use the password manager, simply run the following command:
 
-python password_manager.py
+    python password_manager.py
 
 This will start the command-line interface of the password manager. The program provides the following commands:
 
