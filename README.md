@@ -22,11 +22,11 @@ python password_manager.py
 
 This will start the command-line interface of the password manager. The program provides the following commands:
 
-    ### add: Adds a new password.
-    ### edit: Edits an existing password.
-    ### delete: Deletes an existing password.
-    ### list: Lists all stored passwords.
-    ### show: Shows the details of a specific password.
+        add: Adds a new password.
+        edit: Edits an existing password.
+        delete: Deletes an existing password.
+        list: Lists all stored passwords.
+        show: Shows the details of a specific password.
 
 Each command has its own set of options that you can access by running the command with the --help option. For example:
 
